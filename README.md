@@ -5,7 +5,7 @@ A curated collection of my solutions to coding challenges from Exercism and Leet
 ## 📊 Progress
 
 ### Exercism
-- **Completed**: X exercises
+- **Completed**: 2 exercises
 - **Profile**: [Link a tu perfil Exercism]
 - **Focus**: Clean code, mentorship feedback, iterative improvement
 
