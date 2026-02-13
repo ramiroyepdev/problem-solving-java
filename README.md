@@ -5,8 +5,8 @@ A curated collection of my solutions to coding challenges from Exercism and Leet
 ## 📊 Progress
 
 ### Exercism
-- **Completed**: 3 exercises
-- **Profile**: [Link a tu perfil Exercism]
+- **Completed**: 4 exercises
+- **Profile**: [Exercism profile](https://exercism.org/profiles/ramiroyepdev)
 - **Focus**: Clean code, mentorship feedback, iterative improvement
 
 ### LeetCode
