@@ -5,7 +5,7 @@ A curated collection of my solutions to coding challenges from Exercism and Leet
 ## 📊 Progress
 
 ### Exercism
-- **Completed**: 2 exercises
+- **Completed**: 3 exercises
 - **Profile**: [Link a tu perfil Exercism]
 - **Focus**: Clean code, mentorship feedback, iterative improvement
 
@@ -22,7 +22,7 @@ A curated collection of my solutions to coding challenges from Exercism and Leet
 
 ## 🛠️ Technologies
 
-- Java 17+
+- Java 21+
 - JUnit 5
 - Maven/Gradle
 
